@@ -1,0 +1,2 @@
+{"level":"info","message":"[2024-04-01T10:24:46.238Z] GET /api/sqrt/?num1=2&num2=3 :::: sqrt operation requested: 2 sqrt 3","service":"calculator-microservice"}
+{"level":"info","message":"[2024-04-01T10:25:26.780Z] GET /api/sqrt/?num=25 :::: sqrt operation requested: undefined sqrt undefined","service":"calculator-microservice"}
